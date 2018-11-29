@@ -1,0 +1,10 @@
+ul {
+  list-style: none;
+}
+
+ul li { 
+  font-family:Georgia,serif,Times; 
+  font-size:18px; 
+  margin: 0;
+  padding: 0;
+}
